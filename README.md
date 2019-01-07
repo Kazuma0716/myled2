@@ -1,7 +1,7 @@
 # myled2
 ロボットシステム学課題1  
 RaspberryPiのデバイスドライバを作りLEDを発光させる。  
-Pi3 ModelBを使用。
+Pi3 ModelBでOSはRaspbianを使用。  
 LEDはGPIO25(22番ピン)に接続する。  
 追加機能としてタイマーを実装。
 
