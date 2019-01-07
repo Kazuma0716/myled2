@@ -20,4 +20,4 @@ $ echo 2 > /dev/myled0
 ```
 
 # デモ
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=P-YhCF_qUEo)](http://www.youtube.com/watch?v=P-YhCF_qUEo)
+https://www.youtube.com/watch?v=P-YhCF_qUEo
