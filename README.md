@@ -21,3 +21,6 @@ $ echo 2 > /dev/myled0
 
 # デモ
 https://www.youtube.com/watch?v=P-YhCF_qUEo
+
+# 参考
+[ネルモジュール作成によるlinuxカーネル開発入門 - 第二回 一定時間後に処理をする(タイマー)]https://qiita.com/satoru_takeuchi/items/254dbd7bcad392263c85)
